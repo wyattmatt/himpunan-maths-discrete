@@ -8,12 +8,12 @@ Implementasi teori himpunan (set theory) untuk Matematika Diskrit dalam Python. 
 
 ## Fitur
 
-- ✅ Operasi dasar himpunan (gabungan, irisan, selisih, komplemen)
-- ✅ Operasi lanjutan (selisih simetris, cartesian product, himpunan kuasa)
-- ✅ Perbandingan himpunan (subset, superset, proper subset)
-- ✅ Magic methods Python untuk sintaks yang intuitif
-- ✅ Tanpa menggunakan built-in `set` Python
-- ✅ Dokumentasi lengkap dalam Bahasa Indonesia
+- Operasi dasar himpunan (gabungan, irisan, selisih, komplemen)
+- Operasi lanjutan (selisih simetris, cartesian product, himpunan kuasa)
+- Perbandingan himpunan (subset, superset, proper subset)
+- Magic methods Python untuk sintaks yang intuitif
+- Tanpa menggunakan built-in `set` Python
+- Dokumentasi lengkap dalam Bahasa Indonesia
 
 ## Instalasi
 
@@ -217,10 +217,6 @@ MIT License - Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 ## Kontribusi
 
 Kontribusi sangat diterima! Silakan buat issue atau pull request di repository GitHub.
-
-## Author
-
-Wyatt Matthew - [wyatt.honny06@gmail.com](mailto:wyatt.honny06@gmail.com)
 
 ## Acknowledgments
 
